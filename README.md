@@ -15,6 +15,7 @@ A machine learning model that predicts the next day's stock closing price based 
 * **Data Source:** Real-time historical stock data fetched dynamically via the Yahoo Finance API.
 ---
 <img width="831" height="451" alt="Image" src="https://github.com/user-attachments/assets/665740b6-965b-41a1-b555-06f9aa35304f" />
+
 ---
 
 ## 📁 Project 2: Sentiment Analysis on Twitter Data
@@ -27,6 +28,7 @@ A Natural Language Processing (NLP) tool that analyzes a dataset of tweets and c
 * **Libraries:** `pandas`, `nltk` (VADER SentimentIntensityAnalyzer), `matplotlib`, `seaborn`.
 ---
 <img width="889" height="490" alt="Image" src="https://github.com/user-attachments/assets/871d8909-1a26-40aa-83f3-09f01ee625d3" />
+
 ---
 
 ## ⚙️ How to Run the Projects
