@@ -13,7 +13,9 @@ A machine learning model that predicts the next day's stock closing price based 
 * **Techniques Used:** Linear Regression, Time Series Train-Test Split, Model Evaluation (MSE, R2 Score).
 * **Libraries:** `pandas`, `numpy`, `scikit-learn`, `yfinance`, `matplotlib`.
 * **Data Source:** Real-time historical stock data fetched dynamically via the Yahoo Finance API.
-
+---
+<img width="831" height="451" alt="Image" src="https://github.com/user-attachments/assets/665740b6-965b-41a1-b555-06f9aa35304f" />
+---
 ## 📁 Project 2: Sentiment Analysis on Twitter Data
 A Natural Language Processing (NLP) tool that analyzes a dataset of tweets and classifies the underlying sentiment as Positive, Negative, or Neutral.
 
@@ -22,7 +24,9 @@ A Natural Language Processing (NLP) tool that analyzes a dataset of tweets and c
 * **Objective:** Extract and categorize the emotional tone of social media text data.
 * **Techniques Used:** Lexicon-based Sentiment Scoring, Data Wrangling, Distribution Visualization.
 * **Libraries:** `pandas`, `nltk` (VADER SentimentIntensityAnalyzer), `matplotlib`, `seaborn`.
-
+---
+<img width="889" height="490" alt="Image" src="https://github.com/user-attachments/assets/871d8909-1a26-40aa-83f3-09f01ee625d3" />
+---
 ## ⚙️ How to Run the Projects
 1. Ensure Python and Jupyter Notebook are installed on your local machine.
 2. Clone this repository:
