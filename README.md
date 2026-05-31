@@ -29,9 +29,11 @@ A Natural Language Processing (NLP) tool that analyzes a dataset of tweets and c
 ```bash
    git clone [https://github.com/Vanshika135-svvv/codec-internship.git](https://github.com/Vanshika135-svvv/codec-internship.git)
    cd codec-internship
-3. Install the required libraries:
-```bash
-   pip install -r requirements.txt
+```
+3. **Install the required dependencies:**
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn yfinance nltk
+
 4. Open the Jupyter Notebooks and run the cells to execute the projects.
 ## 📊 Results and Visualizations
 - The Stock Price Predictor notebook includes visualizations of actual vs predicted stock prices, along with performance metrics.
