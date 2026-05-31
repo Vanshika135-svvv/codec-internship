@@ -43,8 +43,13 @@ A Natural Language Processing (NLP) tool that analyzes a dataset of tweets and c
 ├── Stock_Price_Predictor.ipynb
 ├── Twitter_Sentiment_Analysis.ipynb
 ├── tweets.json
-
+```
 ## 📌 Conclusion
-These projects demonstrate the application of machine learning and NLP techniques to real-world datasets, showcasing the skills acquired during the internship. The Stock Price Predictor provides insights into financial forecasting, while the Sentiment Analysis offers a glimpse into social media sentiment trends. Both projects serve as foundational examples for further exploration in AI and data science.
+These projects demonstrate the application of machine learning and NLP techniques
+to real-world datasets, showcasing the skills acquired during the internship. 
+The Stock Price Predictor provides insights into financial forecasting, while the Sentiment Analysis offers a glimpse into social media sentiment trends. 
+Both projects serve as foundational examples for further exploration in AI and data science.
 ## 📧 Contact
-For any questions or feedback regarding the projects, please feel free to reach out to me at [vanshikatiwari135@gmail.com](mailto:vanshikatiwari135@gmail.com)
+For any questions or feedback regarding the projects,
+please feel free to reach out to me at 
+[vanshikatiwari135@gmail.com](mailto:vanshikatiwari135@gmail.com)
